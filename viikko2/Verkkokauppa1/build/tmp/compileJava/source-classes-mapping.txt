@@ -1,0 +1,18 @@
+ohtu/verkkokauppa/Kirjanpito.java
+ ohtu.verkkokauppa.Kirjanpito
+ohtu/verkkokauppa/Tuote.java
+ ohtu.verkkokauppa.Tuote
+ohtu/verkkokauppa/Ostoskori.java
+ ohtu.verkkokauppa.Ostoskori
+ohtu/verkkokauppa/Varasto.java
+ ohtu.verkkokauppa.Varasto
+ohtu/Main.java
+ ohtu.Main
+ohtu/verkkokauppa/Viitegeneraattori.java
+ ohtu.verkkokauppa.Viitegeneraattori
+ohtu/verkkokauppa/Kauppa.java
+ ohtu.verkkokauppa.Kauppa
+ohtu/AppConfig.java
+ ohtu.AppConfig
+ohtu/verkkokauppa/Pankki.java
+ ohtu.verkkokauppa.Pankki
