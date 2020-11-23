@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8a48d207-163c-4380-8d90-a70dd2c1b4f1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../tehtava1/MockitoDemo/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../tehtava1/MockitoDemo/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tehtava1/MockitoDemo/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../tehtava1/MockitoDemo/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tehtava1/MockitoDemo/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../tehtava1/MockitoDemo/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.7/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.7/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.7/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.7/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.7/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.7/fileHashes/resourceHashesCache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.7/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.7/javaCompile/classAnalysis.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.7/javaCompile/jarAnalysis.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.7/javaCompile/javaCompile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.7/javaCompile/taskHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/configuration-cache/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/ohtu/AppConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/ohtu/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/ohtu/verkkokauppa/Kauppa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/ohtu/verkkokauppa/Kirjanpito.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/ohtu/verkkokauppa/KirjanpitoInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/ohtu/verkkokauppa/Ostoskori.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/ohtu/verkkokauppa/Pankki.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/ohtu/verkkokauppa/PankkiInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/ohtu/verkkokauppa/Tuote.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/ohtu/verkkokauppa/Varasto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/ohtu/verkkokauppa/VarastoInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/ohtu/verkkokauppa/Viitegeneraattori.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/ohtu/verkkokauppa/ViitegeneraattoriInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/ohtu/verkkokauppa/KauppaTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/ohtu.verkkokauppa.KauppaTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/css/base-style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/js/report.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/ohtu.verkkokauppa.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-ohtu.verkkokauppa.KauppaTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/source-classes-mapping.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileTestJava/source-classes-mapping.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ohtu/AppConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ohtu/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ohtu/verkkokauppa/Kauppa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ohtu/verkkokauppa/Kirjanpito.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ohtu/verkkokauppa/KirjanpitoInterface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ohtu/verkkokauppa/Ostoskori.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ohtu/verkkokauppa/Pankki.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ohtu/verkkokauppa/PankkiInterface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ohtu/verkkokauppa/Tuote.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ohtu/verkkokauppa/Varasto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ohtu/verkkokauppa/VarastoInterface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ohtu/verkkokauppa/Viitegeneraattori.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ohtu/verkkokauppa/ViitegeneraattoriInterface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ohtu/verkkokauppa/KauppaTest.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kepLR5zqxtnDCRdApLrLQMXl4D" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Tests in 'Verkkokauppa.test'" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests *" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.Tests in 'Verkkokauppa.test'" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8a48d207-163c-4380-8d90-a70dd2c1b4f1" name="Default Changelist" comment="" />
+      <created>1606070854732</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606070854732</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="325" y="116" key="#Project_Structure" timestamp="1606121447308">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state x="325" y="116" key="#Project_Structure/1680.-158.2560.1415/0.25.1680.1025@0.25.1680.1025" timestamp="1606121447308" />
+    <state width="1602" height="277" key="GridCell.Tab.0.bottom" timestamp="1606139281329">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state width="1602" height="277" key="GridCell.Tab.0.bottom/1680.-158.2560.1415/0.25.1680.1025@0.25.1680.1025" timestamp="1606139281329" />
+    <state width="1602" height="277" key="GridCell.Tab.0.center" timestamp="1606139281328">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state width="1602" height="277" key="GridCell.Tab.0.center/1680.-158.2560.1415/0.25.1680.1025@0.25.1680.1025" timestamp="1606139281328" />
+    <state width="1602" height="277" key="GridCell.Tab.0.left" timestamp="1606139281328">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state width="1602" height="277" key="GridCell.Tab.0.left/1680.-158.2560.1415/0.25.1680.1025@0.25.1680.1025" timestamp="1606139281328" />
+    <state width="1602" height="277" key="GridCell.Tab.0.right" timestamp="1606139281329">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state width="1602" height="277" key="GridCell.Tab.0.right/1680.-158.2560.1415/0.25.1680.1025@0.25.1680.1025" timestamp="1606139281329" />
+    <state x="243" y="157" key="new project wizard" timestamp="1606121769611">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state x="243" y="157" key="new project wizard/1680.-158.2560.1415/0.25.1680.1025@0.25.1680.1025" timestamp="1606121769611" />
+  </component>
+</project>
